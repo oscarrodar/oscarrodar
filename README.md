@@ -1,7 +1,5 @@
 ### Software Development Engineer 👋
 
-<a href="https://app.daily.dev/oscarrodar"><img src="https://api.daily.dev/devcards/7948bd484c1a4070a6c3fe112e6ddcce.png?r=f0t" width="400" alt="Oscar Rodriguez Arroyo's Dev Card"/></a>
-
 - 🔭 SDE @ Microsoft 
 - 🌱 I’m currently developing using C/C++, typescript, javascript and working for [Microsoft Search Assistant and Intelligence](https://www.microsoft.com/en-us/research/group/msai/). Delivering new features to Edge.
 - 👯 I’m looking to collaborate on JS open projects.
