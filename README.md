@@ -1,7 +1,7 @@
 ### Software Development Engineer 👋
 
-- 🔭 SDE @ Microsoft 
-- 🌱 I’m currently developing using C/C++, typescript, javascript and working for [Microsoft Search Assistant and Intelligence](https://www.microsoft.com/en-us/research/group/msai/). Delivering new features to Edge.
+- 🔭 SDE @ Microsoft, working for [Microsoft Search Assistant and Intelligence](https://www.microsoft.com/en-us/research/group/msai/). 
+- 🌱 I’m currently writing C++ code to deliver new features within [Microsoft Edge](https://www.microsoft.com/es-es/edge/home?form=MA13FJ).
 - 👯 I’m looking to collaborate on JS open projects.
 - 💻 Finishing my Computer Science master degree. 
 
