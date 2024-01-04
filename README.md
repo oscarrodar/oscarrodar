@@ -1,6 +1,6 @@
 ### Software Development Engineer 👋
 
-In general, 👯 I’m looking to collaborate on JS open projects.
+Looking to contribute on JS open projects.
 
 #### Past Experiences
 - ☁️ SDE II @ AWS, working for [AWS Marketplace](https://aws.amazon.com/marketplace) 
